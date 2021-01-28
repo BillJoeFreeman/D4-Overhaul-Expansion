@@ -6,6 +6,7 @@ D4 Overhaul & Expansion hopes to bring many changes to Democracy 4, This mod wil
 
 Completion = ~40%
 Update Features
+
     *Many New Dilemmas and Events.
     *Small General Improvements.
     *One Major Bug  Fix, Mod fully broken by either the two recent updates or from stuff I added.
