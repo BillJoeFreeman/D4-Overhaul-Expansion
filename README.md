@@ -24,6 +24,7 @@ Update Features
 
 
 ***Planned Features***
+
     *Adding More Countries Like India, Mexico, South Africa, Luxembourg, Indonesia, Philippines, Papua New Guinea, Malaysia, Hungry, Poland, Pakistan, Somalia, Chile*     *And More.
     *Adding More Content To Base Game Countries.
     *Adding More Policies Like Interest Rate.	
