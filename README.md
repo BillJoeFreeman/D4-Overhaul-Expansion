@@ -1,8 +1,8 @@
-###### Introduction
+***Introduction***
 
 D4 Overhaul & Expansion hopes to bring many changes to Democracy 4, This mod will hopefully touch on many things that do need improving and we will take suggestions from you players of Democracy 4!
 
-**######Next Update**
+***Next Update***
 
 Completion = ~40%
 Update Features
@@ -12,7 +12,7 @@ Update Features
     *New Countries: Indonesia, Hungry, Poland, Pakistan, Somalia, Chile.
 
 
-**######Features**
+***Features***
 
     *New Dark Mode.
     *New Startup Image(Bugged).
@@ -23,7 +23,7 @@ Update Features
     *Added New Overrides 24 In Total.
 
 
-**######Planned Features**
+***Planned Features***
 [list]
     [*]Adding More Countries Like India, Mexico, South Africa, Luxembourg, Indonesia, Philippines, Papua New Guinea, Malaysia, Hungry, Poland, Pakistan, Somalia, Chile And More.
     *Adding More Content To Base Game Countries.
@@ -32,13 +32,13 @@ Update Features
     *And Adding Suggestions And Other Stuff!
 
 
-**######Compatibility**
+***Compatibility***
 The mod has no known compatibility issues.
 
 Tested with all of FeelinWitchy's Mods! Check them out and give them some love! 
 https://steamcommunity.com/workshop/filedetails/?id=2260955084
 
-**######Known Bugs**
+***Known Bugs***
     *The New Startup Image Does Not Work, I will try to find a fix.
     *Some UI Changes Don't Work For Steam Version.
     *North Korea Is Super Hard To Play. [Fixedish]
@@ -47,7 +47,7 @@ https://steamcommunity.com/workshop/filedetails/?id=2260955084
 You may use the mod that I made which is provided, But you may not sell said mod or claim it as your own, You may reupload it in a modpack or add it to a collection or even fork the mod and upload it on steam ( after making real noticeable changes ), but you need to credit me "Dr. Freeman". ©2021 Dr. Freeman
 (MIT License)
 
-**######Updates**
+***Updates***
 
 -Update 1.7 Jan 26th, 2021:
 - 10 New Dilemmas.
