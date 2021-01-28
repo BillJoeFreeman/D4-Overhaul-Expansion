@@ -50,11 +50,7 @@ You may use the mod that I made which is provided, But you may not sell said mod
 
 ***Updates***
 
--Update 1.7 Jan 26th, 2021:
-- 10 New Dilemmas.
-- 7 New Events
-
--Update 1.6.3 Jan 11th, 2021:
+Update 1.6.3 Jan 11th, 2021:
 - New Dilemma For Turkey.
 - Bug Fixes.
 
