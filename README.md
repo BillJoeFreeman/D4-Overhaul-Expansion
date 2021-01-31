@@ -35,12 +35,14 @@ Update Features
 
 
 ***Compatibility***
+
 The mod has no known compatibility issues.
 
 Tested with all of FeelinWitchy's Mods! Check them out and give them some love! 
 https://steamcommunity.com/workshop/filedetails/?id=2260955084
 
 ***Known Bugs***
+
     *The New Startup Image Does Not Work, I will try to find a fix.
     *Some UI Changes Don't Work For Steam Version.
     *North Korea Is Super Hard To Play. [Fixedish]
