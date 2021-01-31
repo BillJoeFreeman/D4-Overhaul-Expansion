@@ -20,7 +20,7 @@ Update Features
     *New Startup Image(Bugged).
     *Minor Changes To "opposites.ini" and "celeb_compass.ini"
     *Added More Names and Resorted Names For US.
-    *Added New Countries, Russia, Japan, China, North/South Korea, Turkey, Brazil, Iran, The Republic Of China, Sweden, Norway, And Afghanistan, 19 In Total.
+    *Added New Countries, Russia, Japan, China, North/South Korea, Turkey, Brazil, Iran, The Republic Of China, Sweden, Norway, Afghanistan, Indonesia, Hungry, Poland, Pakistan, Somalia, Chile, And Finland. 19 In Total.
     *Added New Dilemmas, Events, And Situations 37 In Total.
     *Added New Overrides 24 In Total.
 
