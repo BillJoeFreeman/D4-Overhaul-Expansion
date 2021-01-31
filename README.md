@@ -4,13 +4,14 @@ D4 Overhaul & Expansion hopes to bring many changes to Democracy 4, This mod wil
 
 ***Next Update***
 
-Completion = ~40%
+Update 0.16.5 [/b]
+Completion = ~0%
 Update Features
 
-    *Many New Dilemmas and Events.
-    *Small General Improvements.
-    *One Major Bug  Fix, Mod fully broken by either the two recent updates or from stuff I added.
-    *New Countries: Indonesia, Hungry, Poland, Pakistan, Somalia, Chile.
+    *Fixing The Broken Events.
+    *Blank
+    *Blank
+    *Blank
 
 
 ***Features***
@@ -19,14 +20,14 @@ Update Features
     *New Startup Image(Bugged).
     *Minor Changes To "opposites.ini" and "celeb_compass.ini"
     *Added More Names and Resorted Names For US.
-    *Added New Countries, Russia, Japan, China, North/South Korea, Turkey, Brazil, Iran, The Republic Of China, Sweden, Norway, And Afghanistan, 12 In Total.
+    *Added New Countries, Russia, Japan, China, North/South Korea, Turkey, Brazil, Iran, The Republic Of China, Sweden, Norway, And Afghanistan, 19 In Total.
     *Added New Dilemmas, Events, And Situations 37 In Total.
     *Added New Overrides 24 In Total.
 
 
 ***Planned Features***
 
-    *Adding More Countries Like India, Mexico, South Africa, Luxembourg, Indonesia, Philippines, Papua New Guinea, Malaysia, Hungry, Poland, Pakistan, Somalia, Chile*     *And More.
+    *Adding More Countries Like India, Mexico, South Africa, Luxembourg, Philippines, Papua New Guinea, Malaysia, And More.
     *Adding More Content To Base Game Countries.
     *Adding More Policies Like Interest Rate.	
     *UI Improvements And Ease Of Life Improvements.
@@ -45,53 +46,56 @@ https://steamcommunity.com/workshop/filedetails/?id=2260955084
     *North Korea Is Super Hard To Play. [Fixedish]
     *Ukraine situation. [Fixed]
 
-You may use the mod that I made which is provided, But you may not sell said mod or claim it as your own, You may reupload it in a modpack or add it to a collection or even fork the mod and upload it on steam ( after making real noticeable changes ), but you need to credit me "Dr. Freeman". ©2021 Dr. Freeman
-(MIT License)
-
 ***Updates***
 
-Update 1.6.3 Jan 11th, 2021:
+-Update 0.16.4 Jan 26th, 2021:
+- 10 New Dilemmas.
+- 7 New Events. Broken
+- New Countries They Are Indonesia, Hungry, Poland, Pakistan, Somalia, Chile, Finland.
+- Two Bug Fixes.
+
+-Update 0.16.3 Jan 11th, 2021:
 - New Dilemma For Turkey.
 - Bug Fixes.
 
-Update 1.6.2 Jan 7th, 2021:
+Update 0.16.2 Jan 7th, 2021:
 - Policy Changes To Norway.
 - Bug Fixes.
 
-Update 1.6.1 Dec 31th, 2020:
+Update 0.16.1 Dec 31th, 2020:
 - Bug Fixes.
 
-Update 1.6 Dec 29th, 2020:
+Update 0.16 Dec 29th, 2020:
 - Added Three New Countries! They Are Sweden, Norway, And Afghanistan!
 - Added 5 New Overrides
 
-Update 1.5.1 Dec 23th, 2020:
+Update 0.15.1 Dec 23th, 2020:
 - Small Bug Fix.
 
-Update 1.5 Dec 22th, 2020:
+Update 0.15 Dec 22th, 2020:
 - Policy Changes To China and Taiwan.
 
-Update 1.4 Dec 21th, 2020:
+Update 0.14 Dec 21th, 2020:
 - New Steam Workshop Thumbnail.
 - Policy Changes To China And Russia.
 - Minor Fix For China's Description.
 - Added Many New Overrides 10 In Total For Most Countries.
 
-Update 1.3 Dec 20th, 2020:
+Update 0.13 Dec 20th, 2020:
 - Added 9 Overrides Used In Iran, Russia, North Korea.
 - Many Changes To North Korea.
 - Policy Changes For Iran and Russia.
 - Added More Quotes. ( Hopefully They Will Work )
 
-Update 1.2 Dec 19th, 2020:
+Update 0.12 Dec 19th, 2020:
 - Policy Changes For Japan.
 
-Update 1.1 Dec 19th, 2020:
+Update 0.11 Dec 19th, 2020:
 - Many Policy Changes For Iran, China, North Korea.
 - Fixed Bug Where Cargo Plane Crash Event Keeps Happening.
 - Other Small Changes.
 
-Update 1.0 Dec 12th, 2020:
+Update 0.10 Dec 12th, 2020:
 - Grammar Fixes For Many Things.
 - Updated Workshop Look.
 - Added New Countries! They Are Brazil, Iran, And the Republic Of China, Which are at the current time ( Dec 12th, 2020 1:26 PM ) are all the remaining requests, So Ask for more!
@@ -99,7 +103,7 @@ Update 1.0 Dec 12th, 2020:
 - Added New Dilemmas, Events, And Situations.
 
 Update 0.9 Dec 9th, 2020:
-- Added New Countries! It's South Korea and Turkey, They Need More Content.
+- Added New Countries! It's South Korea and Turkey.
 - Made Small Changes To All Custom Country Descriptions.
 
 Update 0.8.2 Dec 8th, 2020:
@@ -109,14 +113,14 @@ Update 0.8.1 Dec 8th, 2020:
 - Minor Bug Fix For Ukraine Bug. ( I was not able to recreate the bug but I think I found the issue )
 
 Update 0.8 Dec 8th, 2020:
--Added A New Country! It's North Korea, It's Meant For Hardcore Players!, It Needs More Content.
+-Added A New Country! It's North Korea, It's Meant For Hardcore Players!.
 -Small Changes To Japan.
 
 Update 0.7.1 Dec 7th, 2020:
 - Minor Bug Fix, Playing Base Game Countries Should Work Now!
 
 Update 0.7 Dec 7th, 2020:
-- Added A New Country! It's Japan, It Needs More Content.
+- Added A New Country! It's Japan.
 - Small Change To Russian's Description.
 
 Update 0.6 Dec 7th, 2020:
@@ -135,4 +139,4 @@ Update 0.3 Dec 6th, 2020:
 - Added Russian Names.
 
 Update 0.2 Dec 6th, 2020:
-- Added A New Country! It's Russia, It Needs More Content.
+- Added A New Country! It's Russia.
