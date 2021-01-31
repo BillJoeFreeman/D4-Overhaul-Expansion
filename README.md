@@ -142,3 +142,6 @@ Update 0.3 Dec 6th, 2020:
 
 Update 0.2 Dec 6th, 2020:
 - Added A New Country! It's Russia.
+
+Update 0.1 Dec 5th, 2020:
+- Mod Created.
